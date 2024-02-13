@@ -1,0 +1,4 @@
+C:\Users\Paulo\Desktop\vsCode\Tareas\1er Parcial\Practica1\Practica2_PauloOrozco\obj\Debug\net8.0\Practica2_PauloOrozco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Desktop\vsCode\Tareas\1er Parcial\Practica1\Practica2_PauloOrozco\obj\Debug\net8.0\Practica2_PauloOrozco.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\vsCode\Tareas\1er Parcial\Practica1\Practica2_PauloOrozco\obj\Debug\net8.0\Practica2_PauloOrozco.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\vsCode\Tareas\1er Parcial\Practica1\Practica2_PauloOrozco\obj\Debug\net8.0\Practica2_PauloOrozco.csproj.CoreCompileInputs.cache
